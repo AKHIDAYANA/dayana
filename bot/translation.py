@@ -46,13 +46,13 @@ For More Details join channel now..
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
 
-<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/sunaif_adkar">👤 Sunaif Adkar</a></b>
+<b>>➥ join</b> : <b><a href="https://t.me/movieinfinites">👤 Sunaif Adkar</a></b>
 
-<b>➥ 🎬turtoil video</b> : <b><a href="https://t.me/sabotschannel/19">👤SaMods</a></b>
+<b>➥ 🎬turtoil video</b> : <b><a href="https://t.me/movieinfinites">👤SaMods</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
-<b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
+<b>➥ movieupdates</b> : <b><a href="https://movieinfinites">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://t.me/sabotschannel/12">💥Click Me</a></b>
+<b>➥ join channel</b> : <b><a href="https://t.me/movieinfinites">💥Click Me</a></b>
 """
